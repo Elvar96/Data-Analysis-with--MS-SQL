@@ -1,2 +1,2 @@
-Data Analyst Portfolio Project with SQL 
+# Data Analyst Portfolio Project with SQL.
 This Repository will hold all of the code and queries from the Portfolio Projects I create.
